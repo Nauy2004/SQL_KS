@@ -2,7 +2,7 @@
 
 
 INSERT INTO NhanVien (id_NV, ten_nhanvien, so_dien_thoai, dia_chi) VALUES
-('NV001', 'Trần Thị Mai', '0987654321', 'Hà Nội'),
+('NV001', N'Trần Thị Mai', '0987654321', 'Hà Nội'),
 ('NV002', 'Nguyễn Văn Minh', '0967890123', 'Hồ Chí Minh'),
 ('NV003', 'Lê Thị Hoa', '0865432100', 'Đà Nẵng'),
 ('NV004', 'Phạm Văn Nam', '0912345678', 'Cần Thơ'),
